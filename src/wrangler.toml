@@ -1,1 +1,9 @@
+name = "volna"
+main = "src/worker.js"
+compatibility_date = "2024-09-23"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "volna-db"
+database_id = "ТВОЙ_DATABASE_ID"
 
